@@ -1,10 +1,10 @@
 import requests
 import pandas as pd
 
-# Replace the demo next to apikey with your own from the Alpha Vantage website
+# Replace the demo next to apikey with your own key from the Alpha Vantage website
 
 # Fetch news sentiment data from Alpha Vantage API
-url = 'https://www.alphavantage.co/query?function=NEWS_SENTIMENT&tickers=BABA&time_from=20240801T0000&limit=200&apikey=293CSLERR4IAEZYY'
+url = 'https://www.alphavantage.co/query?function=NEWS_SENTIMENT&tickers=BABA&time_from=20240801T0000&limit=200&apikey=demo'
 r = requests.get(url)
 data = r.json()
 
