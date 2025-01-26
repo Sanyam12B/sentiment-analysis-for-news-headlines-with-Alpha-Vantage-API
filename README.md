@@ -13,11 +13,5 @@ Before running the code, ensure you have the following installed:
   - `transformers`
   - `numpy`
 
-You can install the required packages using pip:
 # sentiment-analysis-for-news-headlines-with-Alpha-Vantage-API
-# sentiment-analysis-for-news-headlines-with-Alpha-Vantage-API
-# sentiment-analysis-for-news-headlines-with-Alpha-Vantage-API
-# sentiment-analysis-for-news-headlines-with-Alpha-Vantage-API
-# sentiment-analysis-for-news-headlines-with-Alpha-Vantage-API
-# sentiment-analysis-for-news-headlines-with-Alpha-Vantage-API
-# sentiment-analysis-for-news-headlines-with-Alpha-Vantage-API
+
